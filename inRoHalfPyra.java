@@ -3,7 +3,6 @@ public class inRoHalfPyra {
         int n = 4; // number of rows
 
         for (int i = 1; i <= n; i++) {
-            // Print leading spaces
             for (int s = 1; s < i; s++) {
                 System.out.print("  "); // To print spaces
             }
